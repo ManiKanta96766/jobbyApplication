@@ -1,0 +1,11 @@
+.job-details-container {
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
+.skills-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

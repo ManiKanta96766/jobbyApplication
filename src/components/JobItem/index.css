@@ -1,0 +1,10 @@
+.job-information {
+  display: flex;
+}
+.job-item {
+  background-color: #272727;
+  margin: 20px;
+  border: 0px;
+  border-radius: 20px;
+  padding: 20px;
+}
